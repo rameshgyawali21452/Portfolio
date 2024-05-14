@@ -1,0 +1,22 @@
+*{
+    background-image: url("Background Image.jpg");
+    background-size: cover;
+    color: white;
+    box-shadow:4px 4px 10px black;
+}
+th{
+    background-color: red;
+}
+th:hover{
+    color:lightgrey;
+    background-color:#ffffff;
+    transform: skew(-30deg);
+}
+tr{
+    text-align: center;
+}
+td:hover{
+    color:lightgrey;
+    background-color:#ffffff;
+    transform: skew(-20deg);
+}
